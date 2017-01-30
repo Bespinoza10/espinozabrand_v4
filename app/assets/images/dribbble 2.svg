@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.1 (15681) - http://www.bohemiancoding.com/sketch -->
+    <title>Dribbble Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Macbook-Air-(1440px)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Work-(Homepage)" sketch:type="MSArtboardGroup" transform="translate(-1272.000000, -2228.000000)">
+            <g id="Footer" sketch:type="MSLayerGroup" transform="translate(0.000000, 2123.000000)">
+                <g id="Social-Icons" transform="translate(1046.000000, 105.000000)" sketch:type="MSShapeGroup">
+                    <g id="Dribbble-Icon" transform="translate(226.000000, 0.000000)">
+                        <path d="M15,30 C23.2842713,30 30,23.2842713 30,15 C30,6.71572875 23.2842713,0 15,0 C6.71572875,0 0,6.71572875 0,15 C0,23.2842713 6.71572875,30 15,30 L15,30 Z M15,28.9285714 C22.6925376,28.9285714 28.9285714,22.6925376 28.9285714,15 C28.9285714,7.30746241 22.6925376,1.07142857 15,1.07142857 C7.30746241,1.07142857 1.07142857,7.30746241 1.07142857,15 C1.07142857,22.6925376 7.30746241,28.9285714 15,28.9285714 L15,28.9285714 Z" id="Oval-22" fill="#979797"></path>
+                        <path d="M0.803571429,12.8571429 C0.803571429,12.8571429 7.5,14.3303571 15.5357143,11.5178571 C23.5714286,8.70535714 24.9107143,4.55357143 24.9107143,4.55357143" id="Path-17" stroke="#979797"></path>
+                        <path d="M9.375,1.875 C9.375,1.875 14.4642857,6.69642857 17.4107143,13.3928571 C20.3571429,20.0892857 20.8928571,28.3928571 20.8928571,28.3928571" id="Path-18" stroke="#979797"></path>
+                        <path d="M5.625,25.9821429 C5.625,25.9821429 6.97914734,20.349712 14.4642857,16.6071429 C19.8214286,13.9285715 29.4642857,15.8035714 29.4642857,15.8035714" id="Path-19" stroke="#979797"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

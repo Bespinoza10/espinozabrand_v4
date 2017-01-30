@@ -1380,3 +1380,39 @@ Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bd
 
 
 Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:17:48 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:27:45 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 2094ms (Views: 2089.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-d44af5cbbf4d2f091739a0b1b6fa26843d1d3c4339061402b5932ecb23c261b5.css?body=1" for ::1 at 2017-01-30 11:27:47 -0600
+
+
+Started GET "/assets/application.self-a55b2d69e73341ac1dc4253854f91de29365f4919e4704b5ba0b17d57ba9c788.css?body=1" for ::1 at 2017-01-30 11:27:47 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:27:48 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:31:26 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2495ms (Views: 2493.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/modules/_colors.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-30 11:31:28 -0600
+
+
+Started GET "/assets/application.self-682e463a97d3b7877752867ac2e0ad196c8bd1037a8e12e9491bfeaa56f7ec6b.css?body=1" for ::1 at 2017-01-30 11:31:28 -0600
+
+
+Started GET "/assets/modules/all.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-30 11:31:28 -0600
+
+
+Started GET "/assets/modules/_media-sizes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-30 11:31:28 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:31:28 -0600

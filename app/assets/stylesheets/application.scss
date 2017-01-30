@@ -22,3 +22,31 @@
 body, a, h1, h2, h3, h4, h5, h6, p{
   font-family: 'Dosis', sans-serif;
 }
+
+h1, h2, h3, h4, h5, h6, p{
+  letter-spacing: 2px;
+}
+.bold{
+  font-weight: 900;
+}
+
+.semi-bold{
+  font-weight: 500;
+}
+
+.thin{
+  font-weight: 100;
+}
+
+.italics{
+  font-style: italic;
+}
+
+.center{
+  float: none;
+  margin: 0 auto;
+}
+
+.text-center{
+  text-align: center;
+}

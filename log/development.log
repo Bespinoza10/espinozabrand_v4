@@ -1416,3 +1416,147 @@ Started GET "/assets/modules/_media-sizes.self-e3b0c44298fc1c149afbf4c8996fb9242
 
 
 Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:31:28 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:37:04 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1931ms (Views: 1926.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-b8db88c38d5ce4612f87d5b214788f27cabeddefad4875b56126340a0a0e4c44.css?body=1" for ::1 at 2017-01-30 11:37:06 -0600
+
+
+Started GET "/assets/application.self-db9c28caf6953ae73283727a27ee6bdaa210639fe85f5e0ff2d42a8abfd7a0d0.css?body=1" for ::1 at 2017-01-30 11:37:06 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:37:06 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:38:25 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 45ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:38:25 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:39:22 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 47ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:39:22 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:39:34 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 37ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:39:34 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:40:12 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2196ms (Views: 2195.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f0b91cf78694ccb1a8183fa2ea8f830ffb670c869146ce1c005d891211e2d009.css?body=1" for ::1 at 2017-01-30 11:40:14 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:40:14 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:42:26 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1636ms (Views: 1635.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f0dcbbfd63dfba3875ccf32aef90e2deeba44aa1a35899a519146f4f953022dc.css?body=1" for ::1 at 2017-01-30 11:42:28 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:42:28 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:42:36 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:42:36 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:42:44 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 30ms (Views: 29.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:42:44 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:42:55 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 24.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:42:55 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:43:16 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 29ms (Views: 28.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:43:16 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:43:35 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1582ms (Views: 1581.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-9fef09ac0f1a37a94a7fb1f5381b169d1e37f81c735cd1da326e1220e3e6329f.css?body=1" for ::1 at 2017-01-30 11:43:37 -0600
+
+
+Started GET "/assets/home.self-3ece9293f4772a8c546fc601a9ec5d40027e9a85580baaf20fcb40cda8a249ec.css?body=1" for ::1 at 2017-01-30 11:43:37 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:43:37 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:47:30 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 43ms (Views: 41.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:47:30 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:47:51 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:47:51 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 11:47:58 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:47:58 -0600

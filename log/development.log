@@ -1560,3 +1560,967 @@ Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 11:47:58 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:22:12 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 2219ms (Views: 2214.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-79450c0b0674d3239f1057665e7324b47b7d319fcd8f682b8972f6d05a96815c.css?body=1" for ::1 at 2017-01-30 12:22:15 -0600
+
+
+Started GET "/assets/application.self-80068455c9457d5c6f96213e3aeee1f97b4abf7954f1289b67c79b8e1f727f0d.css?body=1" for ::1 at 2017-01-30 12:22:15 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:22:15 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:23:49 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 32ms (Views: 31.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:23:49 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:23:51 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:23:51 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:23:52 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:23:52 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:24:05 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 30ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:24:05 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:24:07 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:24:07 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:26:58 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 1622ms (Views: 1621.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-f04f4d18dc651e2c4192cd21cc03ea08581020ed002ba9cc288431df41af923a.css?body=1" for ::1 at 2017-01-30 12:26:59 -0600
+
+
+Started GET "/assets/application.self-e076cfa5e23fc6e934f5ff42975803d4b011231473846a2c77efa8ebb2e98dd7.css?body=1" for ::1 at 2017-01-30 12:26:59 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:26:59 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:05 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1560ms (Views: 1559.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-501fbda0c5996f482b6f417f4bddbd89121cc18f99fb39e005f548c3b99c5e2c.css?body=1" for ::1 at 2017-01-30 12:27:07 -0600
+
+
+Started GET "/assets/application.self-4cad2fa3281b1d8a6da054c4d72b75e8bb76281fe1aed6b1c488c8412cf95407.css?body=1" for ::1 at 2017-01-30 12:27:07 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:07 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:12 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1702ms (Views: 1701.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-da22078295ba6116505d44c86164bea0cdb574ca3bbe5410217826badb7a561a.css?body=1" for ::1 at 2017-01-30 12:27:14 -0600
+
+
+Started GET "/assets/home.self-5ef9612eff9f445b0a5d1d7905cbb6835dd9d5b9388b3b3f91adfb60d947842e.css?body=1" for ::1 at 2017-01-30 12:27:14 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:14 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:15 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:15 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:19 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1548ms (Views: 1547.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-b397fd40a33191417df2ba701c4ae1d674387eb6769112298bc3948e73b6286d.css?body=1" for ::1 at 2017-01-30 12:27:20 -0600
+
+
+Started GET "/assets/application.self-470d89843f72bd9809e170b00f01c1a5132cd194637be921c9d75bb19d3ffc9e.css?body=1" for ::1 at 2017-01-30 12:27:20 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:20 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:21 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 37ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:21 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:23 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 35ms (Views: 34.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:23 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:27 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1724ms (Views: 1723.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:29 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 26ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-fd45ae56225033bcfc3cc25c9a7f22771121155f7de92e52bcb640ddc9e3b104.css?body=1" for ::1 at 2017-01-30 12:27:29 -0600
+
+
+Started GET "/assets/application.self-2d95ad01921d363a6a40dc20c5f0933111e931b3bc00db98b801e113c4d2eccf.css?body=1" for ::1 at 2017-01-30 12:27:29 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:29 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:27:45 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1565ms (Views: 1563.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-a406c14454f09572230017cc7e8b63952eac23237e4f9490e0823a13b1d296fa.css?body=1" for ::1 at 2017-01-30 12:27:46 -0600
+
+
+Started GET "/assets/application.self-5d79437e61c6d9be7197e86a5d27aa50a28034a5ccaf240e1b3c861f6392bdb9.css?body=1" for ::1 at 2017-01-30 12:27:46 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:27:47 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:05 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1619ms (Views: 1618.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-295e4864eae357111e54667c733cf5affd9ea7158feb0fc5b1e3337d984f5553.css?body=1" for ::1 at 2017-01-30 12:28:06 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:06 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:08 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 24ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:09 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:17 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1512ms (Views: 1511.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-74bdb147b9405782eee6258547fbda34fefeef4c3ef5ba22633a239456797103.css?body=1" for ::1 at 2017-01-30 12:28:19 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:19 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:20 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:21 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:30 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 39ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:30 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:32 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:32 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:33 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 32.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:33 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:28:34 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 30ms (Views: 29.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:28:34 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:40:10 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 70ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:40:11 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:03 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2375ms (Views: 2374.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-95b913fa8bf196652759bb907afff32a30c9498e7312ef5905881584390ff8d1.css?body=1" for ::1 at 2017-01-30 12:42:05 -0600
+
+
+Started GET "/assets/application.self-40ecbdddccb8bdc394bcb7c757012cf0e75efad1af578717677abe8cf7d18336.css?body=1" for ::1 at 2017-01-30 12:42:05 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:42:05 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:42:06 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.9ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.9ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (161.2ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (57.8ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (152.5ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:20 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 33ms (Views: 31.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:42:20 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:42:20 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (91.1ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (56.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (3.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (122.2ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:23 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 26ms (Views: 25.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:42:23 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:42:23 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (107.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (88.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (170.4ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:34 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:42:34 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:42:34 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.7ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (91.7ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (61.0ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (130.8ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:46 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1729ms (Views: 1728.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-0b07cf5a48e5814e5cecf2b30017570dbf382af004530c0a50756b1cc1f671dd.css?body=1" for ::1 at 2017-01-30 12:42:48 -0600
+
+
+Started GET "/assets/application.self-5fcbf26609c6af906d8419a9ef6678a85d6f533c38a70bc43b563ad28803a9b1.css?body=1" for ::1 at 2017-01-30 12:42:48 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:42:48 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:42:48 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (88.1ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (68.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (154.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:50 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 55ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:42:51 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:42:51 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.0ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (82.2ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (53.8ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (135.5ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:42:59 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1699ms (Views: 1698.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-2758dfec6bd142527661034dbdac8793e14cede3763339dfbfe04b2240ce18eb.css?body=1" for ::1 at 2017-01-30 12:43:01 -0600
+
+
+Started GET "/assets/application.self-828346aed70680ac36862160b8aff30c8bba32789e5ee9d49277459269861916.css?body=1" for ::1 at 2017-01-30 12:43:01 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:43:01 -0600
+
+
+Started GET "/assets/assets/white-bg.jpg" for ::1 at 2017-01-30 12:43:02 -0600
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/white-bg.jpg"):
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.5) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.5) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5.1) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5.1) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.5) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5.1) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5.1) lib/rails/application.rb:165:in `call'
+  rack (1.6.5) lib/rack/lock.rb:17:in `call'
+  rack (1.6.5) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.5) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:138:in `service'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/httpserver.rb:94:in `run'
+  /Users/brandonespinoza/.rvm/rubies/ruby-2.2.1/lib/ruby/2.2.0/webrick/server.rb:294:in `block in start_thread'
+
+
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (0.8ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.2ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/actionpack-4.2.5.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (77.7ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (52.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/brandonespinoza/.rvm/gems/ruby-2.2.1/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (112.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:45:09 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1699ms (Views: 1698.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-690b15871f3280b3638c4bb40836acf8adfc7d58cc5e419c9efdaf410c8c4703.css?body=1" for ::1 at 2017-01-30 12:45:11 -0600
+
+
+Started GET "/assets/application.self-f02f0bcd8cf5649059e684c4d7460879441e89b6bb4d4ba32bc4095b62a57020.css?body=1" for ::1 at 2017-01-30 12:45:11 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:45:11 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:45:12 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:45:21 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1766ms (Views: 1765.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-30 12:45:23 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e95e0c3dcb544aa43164f8af31edaf29fb544dd304b2462d7085ad6109282cc1.css?body=1" for ::1 at 2017-01-30 12:45:23 -0600
+
+
+Started GET "/assets/application.self-4e77d278d0b5273c192d07656d74b823d44bdb6eb0cc12eda39c6e653f78e68d.css?body=1" for ::1 at 2017-01-30 12:45:23 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:45:23 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:45:23 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:45:38 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 31ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-e95e0c3dcb544aa43164f8af31edaf29fb544dd304b2462d7085ad6109282cc1.css?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/modules/_colors.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/modules/_media-sizes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/modules/all.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/application.self-4e77d278d0b5273c192d07656d74b823d44bdb6eb0cc12eda39c6e653f78e68d.css?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:45:38 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:05 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:06 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:07 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:07 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:08 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:11 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:12 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:14 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:17 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:26 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:29 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:30 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:31 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:32 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:32 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:34 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:34 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:34 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:46:37 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:46:38 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:46:38 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:47:08 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 31ms (Views: 30.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:47:09 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:47:09 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:47:25 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2220ms (Views: 2219.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-3dd2fee1c843cf047771130c6940bcf47d8af7bd4e5fc8d5d10a8e9b4791e9d6.css?body=1" for ::1 at 2017-01-30 12:47:27 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:47:27 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:47:27 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:47:36 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1640ms (Views: 1639.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:47:38 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:47:38 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:48:12 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1753ms (Views: 1752.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-603a66a4f76c641e2c954573e49e17ea66d81dba0ee1f49935c6550f259bbe9e.css?body=1" for ::1 at 2017-01-30 12:48:14 -0600
+
+
+Started GET "/assets/application.self-ca40985fcbd74ef5fedeff3f3f7a88b22c19bd838cb98e1cdcae3ae95e04c170.css?body=1" for ::1 at 2017-01-30 12:48:14 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:48:14 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:48:15 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:48:39 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1668ms (Views: 1667.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-906958b7e9792fab716a70cb77f8ae708459b24031d1d7224466fbf5069ed64f.css?body=1" for ::1 at 2017-01-30 12:48:41 -0600
+
+
+Started GET "/assets/application.self-f39c7aae0d934351c09651a57e89b08e02e4417cfdddc7021a26fb90c653cb19.css?body=1" for ::1 at 2017-01-30 12:48:41 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:48:41 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:48:41 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:48:55 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2794ms (Views: 2793.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-a089ffe5f69e4086fb8f1e4603efe2162a5b4682ce8662e57d82fe6d231db037.css?body=1" for ::1 at 2017-01-30 12:48:58 -0600
+
+
+Started GET "/assets/home.self-039418e0d9a5f3dc41cc273ec7775ec99d00b5b3b530aca74375dcc83931ecab.css?body=1" for ::1 at 2017-01-30 12:48:58 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:48:58 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:48:58 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:49:06 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1608ms (Views: 1608.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-6db9b7c9822f30db5eb37d2fcd9f7e88814bda14a0fdcf492f5029f0e81175f0.css?body=1" for ::1 at 2017-01-30 12:49:08 -0600
+
+
+Started GET "/assets/application.self-8fda3da1b2eeb3876b6f37308848028ffab5b01741a0aaaad903b9d37bf0e8e0.css?body=1" for ::1 at 2017-01-30 12:49:08 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:49:08 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:49:09 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:49:30 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1786ms (Views: 1785.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ec387df75f5baed742feeaf8765a22cded864310fb5c83718912f46dbd14006f.css?body=1" for ::1 at 2017-01-30 12:49:32 -0600
+
+
+Started GET "/assets/home.self-169f5b995a5703f3295eae0e95df065efd0dbd79317261031ca2bd2b67b82610.css?body=1" for ::1 at 2017-01-30 12:49:32 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:49:32 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:49:33 -0600
+
+
+Started GET "/" for ::1 at 2017-01-30 12:49:42 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 27ms (Views: 26.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-01-30 12:49:42 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-01-30 12:49:43 -0600

@@ -17,10 +17,11 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
  @import "home";
-  @import "modules/all";
+ @import "modules/all";
  @import url('https://fonts.googleapis.com/css?family=Dosis:300,400');
 body, a, h1, h2, h3, h4, h5, h6, p{
   font-family: 'Dosis', sans-serif;
+  color: $blue;
 }
 
 h1, h2, h3, h4, h5, h6, p{

@@ -7,7 +7,7 @@
 .navbar{
   height: 70px;
   background: none;
-  border-bottom: none;
+  border: none;
   .navbar-header{
     .navbar-brand img {
       max-width: 50px;
@@ -27,6 +27,31 @@
     }
   }
 }
+
+
+.navbar-white{
+  height: 70px;
+  background: none;
+  border: none;
+  .navbar-header{
+    .navbar-brand img {
+      max-width: 50px;
+    }
+  }.navbar-right{
+    margin-top: 10px;
+    li a{
+      letter-spacing: 3px;
+      font-size: 15px;
+      font-weight: 500;
+      color: $white;
+    } .round-white-btn{
+      background: $white;
+      border-radius: 10px;
+      color: $blue;
+    }
+  }
+}
+
 
 // HOME //
 .hero{

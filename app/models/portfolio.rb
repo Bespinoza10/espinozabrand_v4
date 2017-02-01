@@ -1,7 +1,10 @@
 class Portfolio < ActiveRecord::Base
 
-  has_attached_file :portfolio_bg, styles: { medium: "300x300>", thumb: "100x100>" }
-  validates_attachment_content_type :portfolio_bg, content_type: /\Aimage\/.*\z/
+  has_attached_file :bg, styles: { medium: "300x300>", thumb: "100x100>" }
+  validates_attachment_content_type :bg, content_type: /\Aimage\/.*\z/
+
+  has_attached_file :background, styles: { medium: "300x300>", thumb: "100x100>" }
+  validates_attachment_content_type :background, content_type: /\Aimage\/.*\z/
 
   has_attached_file :website_one, styles: { medium: "300x300>", thumb: "100x100>" }
   validates_attachment_content_type :website_one, content_type: /\Aimage\/.*\z/

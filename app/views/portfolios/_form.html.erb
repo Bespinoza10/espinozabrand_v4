@@ -11,12 +11,12 @@
 
     <div class="form-group col-md-12">
 
-      <% if @portfolio.portfolio_bg.exists? %>
-        <%= image_tag @portfolio.portfolio_bg, class: "img-responsive" %>
+      <% if @portfolio.background.exists? %>
+        <%= image_tag @portfolio.background, class: "img-responsive" %>
       <%end%>
       <br>
-      <%= f.label :portfolios_img %>
-      <%= f.file_field :portfolios_bg, class: "validate", placeholder:"@portfolio.portfolios_img_file_name" %>
+      <%= f.label :background %>
+      <%= f.file_field :background, class: "validate" %>
     </div>
     <br>
     <div class="form-group col-md-12">

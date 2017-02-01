@@ -1,6 +1,7 @@
-class AddPaperclipToPortfolios < ActiveRecord::Migration
+class AddPaperclipToPortfolio < ActiveRecord::Migration
   def change
-    add_attachment :portfolios, :portfolio_bg
+    add_attachment :portfolios, :bg
+    add_attachment :portfolios, :background
     add_attachment :portfolios, :website_one
     add_attachment :portfolios, :website_two
     add_attachment :portfolios, :website_three

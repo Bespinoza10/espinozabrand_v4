@@ -1,3 +1,20 @@
-<h1><%= @portfolio.name%></h1>
-<br>
+<header style="background-image: url('<%= @portfolio.background.url%>');
+  background-attachment: fixed;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  color: white;
+  height: 100vh;
+  margin-top: -100px;">
+    <div class="col-md-12 portfolio-caption center">
+      <h1><%= @portfolio.name%></h1>
+    </div>
+</header>
+
 <p><%= @portfolio.description%></p>
+
+
+<br>
+knfsjn

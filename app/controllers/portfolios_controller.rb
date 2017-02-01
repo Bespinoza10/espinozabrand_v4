@@ -1,6 +1,6 @@
 class PortfoliosController < ApplicationController
 
-  before_action :find_portfolio, only: [:show, :edit, :update, :destroy, :ledit]
+  before_action :find_portfolio, only: [:show, :edit, :update, :destroy]
 
 
   def index
@@ -15,7 +15,7 @@ class PortfoliosController < ApplicationController
     @portfolio = Portfolio.new portfolio_params
 
     if @portfolio.save
-      redirect_to root_path, notice: "New Portfolio Created!"
+      redirect_to @portfolio, notice: "New Portfolio Created!"
     else
       render 'new', notice: "Sorry failed to create!!!"
     end
@@ -26,7 +26,7 @@ class PortfoliosController < ApplicationController
 
   def update
     if @portfolio.update portfolio_params
-      redirect_to root_path, notice: "You Updated: #{@portfolio.title}."
+      redirect_to @portfolio, notice: "You Updated: #{@portfolio.name}."
     else
       render 'edit'
     end
@@ -44,7 +44,7 @@ class PortfoliosController < ApplicationController
   private
 
   def portfolio_params
-    params.require(:portfolio).permit(:name, :description, :role, :tasks, :site, :portfolio_bg, :website_one, :website_two, :website_three, :logo, :bc_front, :bc_back, :banner_front, :banner_back, :polyboard, :photo_one, :photo_two, :photo_three, :photo_link)
+    params.require(:portfolio).permit(:name, :description, :role, :tasks, :site, :background, :website_one, :website_two, :website_three, :logo, :bc_front, :bc_back, :banner_front, :banner_back, :polyboard, :photo_one, :photo_two, :photo_three, :photo_link)
   end
 
   def find_portfolio

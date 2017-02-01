@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170201165723) do
+ActiveRecord::Schema.define(version: 20170201170021) do
 
   create_table "portfolios", force: :cascade do |t|
     t.string   "name"
@@ -19,8 +19,64 @@ ActiveRecord::Schema.define(version: 20170201165723) do
     t.string   "role"
     t.string   "tasks"
     t.string   "site"
-    t.datetime "created_at",  null: false
-    t.datetime "updated_at",  null: false
+    t.datetime "created_at",                 null: false
+    t.datetime "updated_at",                 null: false
+    t.string   "portfolio_bg_file_name"
+    t.string   "portfolio_bg_content_type"
+    t.integer  "portfolio_bg_file_size"
+    t.datetime "portfolio_bg_updated_at"
+    t.string   "website_one_file_name"
+    t.string   "website_one_content_type"
+    t.integer  "website_one_file_size"
+    t.datetime "website_one_updated_at"
+    t.string   "website_two_file_name"
+    t.string   "website_two_content_type"
+    t.integer  "website_two_file_size"
+    t.datetime "website_two_updated_at"
+    t.string   "website_three_file_name"
+    t.string   "website_three_content_type"
+    t.integer  "website_three_file_size"
+    t.datetime "website_three_updated_at"
+    t.string   "logo_file_name"
+    t.string   "logo_content_type"
+    t.integer  "logo_file_size"
+    t.datetime "logo_updated_at"
+    t.string   "bc_front_file_name"
+    t.string   "bc_front_content_type"
+    t.integer  "bc_front_file_size"
+    t.datetime "bc_front_updated_at"
+    t.string   "bc_back_file_name"
+    t.string   "bc_back_content_type"
+    t.integer  "bc_back_file_size"
+    t.datetime "bc_back_updated_at"
+    t.string   "banner_front_file_name"
+    t.string   "banner_front_content_type"
+    t.integer  "banner_front_file_size"
+    t.datetime "banner_front_updated_at"
+    t.string   "banner_back_file_name"
+    t.string   "banner_back_content_type"
+    t.integer  "banner_back_file_size"
+    t.datetime "banner_back_updated_at"
+    t.string   "polyboard_file_name"
+    t.string   "polyboard_content_type"
+    t.integer  "polyboard_file_size"
+    t.datetime "polyboard_updated_at"
+    t.string   "photo_one_file_name"
+    t.string   "photo_one_content_type"
+    t.integer  "photo_one_file_size"
+    t.datetime "photo_one_updated_at"
+    t.string   "photo_two_file_name"
+    t.string   "photo_two_content_type"
+    t.integer  "photo_two_file_size"
+    t.datetime "photo_two_updated_at"
+    t.string   "photo_three_file_name"
+    t.string   "photo_three_content_type"
+    t.integer  "photo_three_file_size"
+    t.datetime "photo_three_updated_at"
+    t.string   "photo_link_file_name"
+    t.string   "photo_link_content_type"
+    t.integer  "photo_link_file_size"
+    t.datetime "photo_link_updated_at"
   end
 
 end

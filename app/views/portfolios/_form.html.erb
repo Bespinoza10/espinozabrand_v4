@@ -1,0 +1,53 @@
+<div class="col-md-10 center padding-section">
+  <%= form_for @portfolio do |f| %>
+    <% if @portfolio.errors.any?%>
+      <h2><%= pluralize(@portfolio.errors.count, "error") %> prevented this client from saving:</h2>
+      <ul>
+        <% @portfolio.errors.full_messages.each do |msg| %>
+          <li><%= msg %></li>
+        <%end%>
+      </ul>
+    <%end%>
+
+    <div class="form-group col-md-12">
+
+      <% if @portfolio.portfolio_bg.exists? %>
+        <%= image_tag @portfolio.portfolio_bg, class: "img-responsive" %>
+      <%end%>
+      <br>
+      <%= f.label :portfolios_img %>
+      <%= f.file_field :portfolios_bg, class: "validate", placeholder:"@portfolio.portfolios_img_file_name" %>
+    </div>
+    <br>
+    <div class="form-group col-md-12">
+      <%= f.label :name %>
+      <%= f.text_field :name, {class: 'form-control form-input'} %>
+    </div>
+    <br>
+
+    <div class="form-group col-md-12">
+      <%= f.label :role %>
+      <%= f.text_field :role, {class: 'form-control form-input'} %>
+    </div>
+
+    <div class="form-group col-md-12">
+      <%= f.label :tasks %>
+      <%= f.text_field :tasks, {class: 'form-control form-input'} %>
+    </div>
+
+    <div class="form-group col-md-12">
+      <h3>Project Details</h3>
+      <%= f.label :description %>
+      <%= f.text_area :description, {class: 'form-control form-input'} %>
+    </div>
+
+
+    <div class="col-md-6">
+      <button type="submit" class="btn btn-border-purple-submit" style="margin-bottom:10px;">Submit</button>
+    </div>
+
+
+
+
+  <%end%>
+</div>

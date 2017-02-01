@@ -1,7 +1,7 @@
 class PortfoliosController < ApplicationController
 
-  before_action :find_content, only: [:show, :edit, :update, :destroy, :ledit]
-  before_action :authenticate_user!, except: [:index, :show]
+  before_action :find_portfolio, only: [:show, :edit, :update, :destroy, :ledit]
+
 
   def index
     @portfolio = Portfolio.all
@@ -44,7 +44,7 @@ class PortfoliosController < ApplicationController
   private
 
   def portfolio_params
-    params.require(:portfolio).permit(:name, :description, :role, :tasks, :site,:portfolio_bg, :website_one, :website_two, :website_three, :logo, :bc_front. :bc_back, :banner_front, :banner_back, :polyboard, :photo_one, :photo_two, :photo_three, :photo_link)
+    params.require(:portfolio).permit(:name, :description, :role, :tasks, :site, :portfolio_bg, :website_one, :website_two, :website_three, :logo, :bc_front, :bc_back, :banner_front, :banner_back, :polyboard, :photo_one, :photo_two, :photo_three, :photo_link)
   end
 
   def find_portfolio

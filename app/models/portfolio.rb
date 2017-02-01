@@ -33,7 +33,4 @@ class Portfolio < ActiveRecord::Base
   has_attached_file :photo_three, styles: { medium: "300x300>", thumb: "100x100>" }
   validates_attachment_content_type :photo_three, portfolio_bg: /\Aimage\/.*\z/
 
-  has_attached_file :photo_link, styles: { medium: "300x300>", thumb: "100x100>" }
-  validates_attachment_content_type :photo_link, portfolio_bg: /\Aimage\/.*\z/
-
 end

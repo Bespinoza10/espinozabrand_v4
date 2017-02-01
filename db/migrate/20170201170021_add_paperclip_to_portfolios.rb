@@ -13,7 +13,5 @@ class AddPaperclipToPortfolios < ActiveRecord::Migration
     add_attachment :portfolios, :photo_one
     add_attachment :portfolios, :photo_two
     add_attachment :portfolios, :photo_three
-    add_attachment :portfolios, :photo_link
-
   end
 end

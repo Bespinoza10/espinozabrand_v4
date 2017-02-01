@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(version: 20170201170021) do
     t.string   "role"
     t.string   "tasks"
     t.string   "site"
+    t.string   "photo_link"
     t.datetime "created_at",                 null: false
     t.datetime "updated_at",                 null: false
     t.string   "portfolio_bg_file_name"
@@ -73,10 +74,6 @@ ActiveRecord::Schema.define(version: 20170201170021) do
     t.string   "photo_three_content_type"
     t.integer  "photo_three_file_size"
     t.datetime "photo_three_updated_at"
-    t.string   "photo_link_file_name"
-    t.string   "photo_link_content_type"
-    t.integer  "photo_link_file_size"
-    t.datetime "photo_link_updated_at"
   end
 
 end

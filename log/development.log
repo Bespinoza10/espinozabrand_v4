@@ -21578,3 +21578,789 @@ Completed 200 OK in 51ms (Views: 50.5ms | ActiveRecord: 0.1ms)
 
 
 Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 22:56:52 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 22:58:20 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 97ms (Views: 92.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 22:58:21 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 22:58:21 -0600
+
+
+Started GET "/assets/white-bg.jpg" for ::1 at 2017-02-01 22:58:21 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 22:58:21 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 22:58:21 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:38:54 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 2240ms (Views: 2231.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-11edc46c3e55745383227f0908c5e8abb6af6eae058da05147134d318a90dc65.css?body=1" for ::1 at 2017-02-01 23:38:56 -0600
+
+
+Started GET "/assets/home.self-18e00ee643feca6508a45200afbe0327013c5afe51887385fc8c536fff6038e7.css?body=1" for ::1 at 2017-02-01 23:38:56 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:38:56 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:38:56 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:38:56 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:38:56 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:38:57 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:39:09 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1650ms (Views: 1649.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ef5afa130ae552f6623467ba362575eeb815ef34f6a81aa7b3fc1260759eedb1.css?body=1" for ::1 at 2017-02-01 23:39:10 -0600
+
+
+Started GET "/assets/home.self-d63e620eb98651e2f99904f83dc0baf919daf3431b8980e5f19e3fe3e17be91b.css?body=1" for ::1 at 2017-02-01 23:39:10 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:39:11 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:39:11 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:39:11 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:39:11 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:39:11 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:39:12 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 30ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:39:12 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:39:12 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:39:12 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:39:12 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:39:12 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:39:23 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1804ms (Views: 1803.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-a52a4005dbe3f8b38b32c8568e8d4e1a36e52ad86c533624dceb6e8246ed2dd6.css?body=1" for ::1 at 2017-02-01 23:39:25 -0600
+
+
+Started GET "/assets/application.self-55e94877c17febfc854f97a7cd68338d1c171363c3c01eefdfd541fee9154811.css?body=1" for ::1 at 2017-02-01 23:39:25 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:39:25 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:39:25 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:39:25 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:39:25 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:39:26 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:39:40 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1708ms (Views: 1707.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-461e9fb3d24a58f20105136a0bba0063f3c9702476b063d8613130888b984c0b.css?body=1" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/assets/application.self-feda35af1902220b31e79cdf400069b4877fc7560ee324fe9c0d7ae1e0d00f61.css?body=1" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:39:42 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:43:47 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 124ms (Views: 117.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:43:47 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:43:47 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:43:47 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:43:47 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:43:48 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:43:49 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:43:49 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 50ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:43:49 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:43:50 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:43:50 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 48ms (Views: 47.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:43:50 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:43:50 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:43:50 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:43:50 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:43:50 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:43:51 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 57ms (Views: 55.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:43:51 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:43:51 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:43:51 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:43:51 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:43:51 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:48:29 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 125ms (Views: 118.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:48:29 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:48:30 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:48:30 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:48:30 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:48:30 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:48:32 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 74ms (Views: 72.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:48:32 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:48:32 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:48:32 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:48:32 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:48:33 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:48:50 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 102ms (Views: 101.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:48:50 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:48:50 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:48:50 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:48:50 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:48:51 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:48:52 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 71ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:48:52 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:48:52 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:48:52 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:48:52 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:48:52 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:54:10 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 102ms (Views: 97.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:54:10 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:54:10 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:54:10 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:54:10 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:54:11 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:54:12 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 59ms (Views: 57.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:54:12 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:54:13 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:54:13 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:54:13 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:54:13 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:54:59 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2291ms (Views: 2290.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-1e3dd33b6929e5ed15fdf0bb2d72c10dcc1354c478d736998856457c8d18e57b.css?body=1" for ::1 at 2017-02-01 23:55:01 -0600
+
+
+Started GET "/assets/application.self-533fba9cd5d1c76de26b49b0a4af46b702139b86e9275ceef05780f3f88ca4b0.css?body=1" for ::1 at 2017-02-01 23:55:01 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:55:01 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:55:02 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:55:02 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:55:02 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:55:02 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:55:07 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1861ms (Views: 1860.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-b48c3015d1ea4b6b80d8b4396ebe6a40f395239a1524d1d832d6ada5e7b585e6.css?body=1" for ::1 at 2017-02-01 23:55:09 -0600
+
+
+Started GET "/assets/application.self-57082227c951aa8a027e0e84c920b5ce1564a45b0b48c82b34182be577afebe9.css?body=1" for ::1 at 2017-02-01 23:55:09 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:55:09 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:55:09 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:55:09 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:55:09 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:55:10 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:55:14 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1762ms (Views: 1760.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-cb1734997cc6f5abf2131cd6cca1ccf6103139cb507c1c60748306a37df003a7.css?body=1" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/assets/home.self-32a7a88fa8d4162a25d7cc0893664a4ed3f81245d22d58cf50082d01e7d4e30d.css?body=1" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:55:16 -0600
+
+
+Started GET "/" for ::1 at 2017-02-01 23:55:28 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1850ms (Views: 1849.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2d1bf33db8be6bbf56ccf569303104e498c548952cd20f6160714b43a2fcce5e.css?body=1" for ::1 at 2017-02-01 23:55:30 -0600
+
+
+Started GET "/assets/home.self-6f2abe860c86a6dfb9129e3cd467ca7308218d379942e55295684dbd225f6922.css?body=1" for ::1 at 2017-02-01 23:55:30 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 23:55:30 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-01 23:55:30 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-01 23:55:30 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-01 23:55:30 -0600
+
+
+Started GET "/assets/bg.svg" for ::1 at 2017-02-01 23:55:31 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:00:31 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 2880ms (Views: 2868.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-0d5516669989cd190bb59c80236607b6b6669047db640c01b1c338c28270954e.css?body=1" for ::1 at 2017-02-02 00:00:34 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:00:34 -0600
+
+
+Started GET "/assets/home.self-d42f0b2007159d91dccdc5b7392f7a4605e6414df9be77ddc04eab2ba45507bd.css?body=1" for ::1 at 2017-02-02 00:00:34 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:00:35 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:00:35 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:00:35 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:00:35 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:00:40 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2079ms (Views: 2078.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-de046f08ec241954ee1c373bfc06a2ac7f18ccdbccda456b738b7ac3bb6ba6a0.css?body=1" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/assets/application.self-a3dcba766794bfa0f620b04c9c153e0ba3bf4c2120163d7bed0196c3d02905b3.css?body=1" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:00:43 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:00:54 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1831ms (Views: 1829.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-380e427ac50ff21e20d4716c2940c9a64226a3a89afed66fece723e48f8f1a9b.css?body=1" for ::1 at 2017-02-02 00:00:56 -0600
+
+
+Started GET "/assets/home.self-158d1f82b8194d307f799f3207c8084a0e7fcc3dc123351f735546050a57e0c6.css?body=1" for ::1 at 2017-02-02 00:00:56 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:00:56 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:00:56 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:00:56 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:00:56 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:00:57 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:01:43 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 42ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:01:44 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:01:44 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:01:44 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:01:44 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:01:44 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:01:46 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 36ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:01:46 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:01:47 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:01:47 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:01:47 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:01:47 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:01:47 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 81ms (Views: 80.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:01:48 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:01:48 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:01:48 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:01:48 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:01:48 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:01:49 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 49ms (Views: 48.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:01:49 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:01:49 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:01:49 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:01:49 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:01:49 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:02:55 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 105ms (Views: 103.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:02:55 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:02:55 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:02:56 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:02:56 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:02:56 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:03:22 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 94ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:03:22 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:03:22 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:03:22 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:03:22 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:03:23 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:03:30 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 76ms (Views: 75.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:03:31 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:03:31 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:03:31 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:03:31 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:03:31 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:03:33 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 58ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:03:33 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:03:33 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:03:33 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:03:33 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:03:33 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:03:34 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 97ms (Views: 96.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:03:34 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:03:34 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:03:34 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:03:34 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:03:35 -0600
+
+
+Started GET "/" for ::1 at 2017-02-02 00:04:09 -0600
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2480ms (Views: 2478.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-53560e5498f58842ba46b15548a33523c7f501194cded5a3d0a2968654d2e153.css?body=1" for ::1 at 2017-02-02 00:04:11 -0600
+
+
+Started GET "/assets/application.self-b68c5946f232529399e1570eb13ad09739fb8acdc0f43a8870f80bc19b0dd43b.css?body=1" for ::1 at 2017-02-02 00:04:11 -0600
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-02 00:04:12 -0600
+
+
+Started GET "/assets/dribbble.png" for ::1 at 2017-02-02 00:04:12 -0600
+
+
+Started GET "/assets/linkedIn.png" for ::1 at 2017-02-02 00:04:12 -0600
+
+
+Started GET "/assets/GitHub-50.png" for ::1 at 2017-02-02 00:04:12 -0600
+
+
+Started GET "/assets/background.svg" for ::1 at 2017-02-02 00:04:12 -0600

@@ -19851,3 +19851,826 @@ Completed 200 OK in 42ms (Views: 40.0ms | ActiveRecord: 0.4ms)
 
 
 Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 15:48:52 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:07:40 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (2.7ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 2271ms (Views: 2253.2ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/assets/home.self-cdb89156e700b1ffe4b0de4506e7065f82eed369fffa788d3397004b4c108847.css?body=1" for ::1 at 2017-02-01 20:07:42 -0600
+
+
+Started GET "/assets/application.self-d0c2471f79339a00c09d3dcd58769e8c7c4a4236aff3fb97762b5fe580d6533e.css?body=1" for ::1 at 2017-02-01 20:07:42 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:07:42 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:07:57 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 1702ms (Views: 1701.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.self-615c47b236b9bef36877ce28087dbc212ec1b392d3b4a152ce826524a6a90828.css?body=1" for ::1 at 2017-02-01 20:07:59 -0600
+
+
+Started GET "/assets/home.self-228e1d12de3349f6b120d250e083c1368c14a1902a8b05be1dd7afa5a97f36a7.css?body=1" for ::1 at 2017-02-01 20:07:59 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:07:59 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:10:43 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1766ms (Views: 1764.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-12869d4d86711d01384eacadba7f5b031895b5b79c51ec7fa7e9ac546f5b6aaf.css?body=1" for ::1 at 2017-02-01 20:10:44 -0600
+
+
+Started GET "/assets/application.self-4ddb5f34d25e509605e160e1bff52582401d5ee1aba080a0da5e399414a2562c.css?body=1" for ::1 at 2017-02-01 20:10:44 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:10:44 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:10:54 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 73ms (Views: 71.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:10:54 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:11:02 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1633ms (Views: 1631.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:11:04 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:11:05 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 40ms (Views: 38.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:11:05 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:11:28 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 1604ms (Views: 1603.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-4e94c70606e4ed82e0be4c2c90f0f9b4152b4281aab82767ab815d02840d1691.css?body=1" for ::1 at 2017-02-01 20:11:29 -0600
+
+
+Started GET "/assets/application.self-04e7a6741c6ba01960a1cf0c8e8026e8bdedda309ba2edec2814a3935f3edfaa.css?body=1" for ::1 at 2017-02-01 20:11:29 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:11:29 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:11:36 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.3ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 35ms (Views: 32.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:11:36 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:11:38 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 35.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:11:38 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:13 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1707ms (Views: 1705.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-d5d1ca2e27a3d4aaaa15d52e9ffca887fbc46ba93b4de4ecbef946a76f0a4218.css?body=1" for ::1 at 2017-02-01 20:12:15 -0600
+
+
+Started GET "/assets/application.self-c4ca18b38baa1b6101a94ee02d6ee638dd08f72f82282a661107f0dba39c7f8f.css?body=1" for ::1 at 2017-02-01 20:12:15 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:15 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:22 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 1521ms (Views: 1520.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-905ac2aeffe688907f9151a16f0aafcec36d1c2e06e68b500219ea5d9d646ef5.css?body=1" for ::1 at 2017-02-01 20:12:23 -0600
+
+
+Started GET "/assets/application.self-c91134aee9be92327fbc8b502f67aeb5af80a002129eca29efd32562896d03b0.css?body=1" for ::1 at 2017-02-01 20:12:23 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:23 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:29 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 34ms (Views: 32.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:29 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:33 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1675ms (Views: 1673.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-b54173c97353ada811de637e83ce63456c9026cf47d7378810a9b09d41de9b0a.css?body=1" for ::1 at 2017-02-01 20:12:35 -0600
+
+
+Started GET "/assets/application.self-27a6f7943ff0cc63a008d9ecc44bbdfda03640e284d6be9fb93c6dd1ba1324a4.css?body=1" for ::1 at 2017-02-01 20:12:35 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:35 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:44 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1593ms (Views: 1591.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/home.self-a645b6fda12355f1d0e3be3e7ee2c6b4dd34c4df8964f8fef248d8f5eb7a811a.css?body=1" for ::1 at 2017-02-01 20:12:46 -0600
+
+
+Started GET "/assets/application.self-bb6de5e0b2b52bfa7d9d2956cec6823bcd2f36f30c8fb01e954737dd7583fdca.css?body=1" for ::1 at 2017-02-01 20:12:46 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:46 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:51 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1514ms (Views: 1512.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-f624704036dfeb58f3da213981346daa2f497ac4add6e1dc41d1f904b0bf5331.css?body=1" for ::1 at 2017-02-01 20:12:52 -0600
+
+
+Started GET "/assets/application.self-f2d092a2be548d17c9d01fd271cd21f4d7c9f4c0c2d38695aed4b401b5fd60d4.css?body=1" for ::1 at 2017-02-01 20:12:52 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:52 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:12:56 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 1607ms (Views: 1606.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.self-d425eeace9e5d204d285970597258129c37fa56f4aeb14c88a9302022649956a.css?body=1" for ::1 at 2017-02-01 20:12:58 -0600
+
+
+Started GET "/assets/home.self-5eb579eeabb654cb57840bced008b1492f1cb8cf4741cfcd67d9e144503dc5e1.css?body=1" for ::1 at 2017-02-01 20:12:58 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:12:58 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:13:08 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 1518ms (Views: 1516.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-268b2fc3311ca8a567939744721efa013b349cf50a6b24f2b5182c21ac21b9e5.css?body=1" for ::1 at 2017-02-01 20:13:09 -0600
+
+
+Started GET "/assets/application.self-7bd4fa14a5814de831a10c2192121eee18c4bd289c62497f00b71ea38ac0537e.css?body=1" for ::1 at 2017-02-01 20:13:09 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:13:09 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:13:25 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 1637ms (Views: 1636.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/home.self-5df7429ba6ddb2e550f3b9ff16b725291b168cc52aab212e8b235acbe88bf211.css?body=1" for ::1 at 2017-02-01 20:13:26 -0600
+
+
+Started GET "/assets/application.self-693d3c266b35a189a80ddf148fc2956126ded36868d782076c797b8e05d83243.css?body=1" for ::1 at 2017-02-01 20:13:26 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:13:26 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:13:33 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.4ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1566ms (Views: 1563.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.self-0f1e57dc510b26d336394d4aa5ce175f4ff02b1c7a3b0f7ce646ff5c24851bae.css?body=1" for ::1 at 2017-02-01 20:13:35 -0600
+
+
+Started GET "/assets/home.self-0044e17fca7fee5ba799aeb5b9b9d5601efae64023db2c33be983ca3239c87b7.css?body=1" for ::1 at 2017-02-01 20:13:35 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:13:35 -0600
+
+
+Started GET "/portfolios/1/edit" for ::1 at 2017-02-01 20:14:10 -0600
+Processing by PortfoliosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/_form.html.erb (4.5ms)
+  Rendered portfolios/edit.html.erb within layouts/application (8.1ms)
+Completed 200 OK in 53ms (Views: 51.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 20:14:11 -0600
+
+
+Started GET "/portfolios/1/edit" for ::1 at 2017-02-01 20:14:12 -0600
+Processing by PortfoliosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/_form.html.erb (5.8ms)
+  Rendered portfolios/edit.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 50ms (Views: 48.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 20:14:12 -0600
+
+
+Started PATCH "/portfolios/1" for ::1 at 2017-02-01 20:14:41 -0600
+Processing by PortfoliosController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BkmraJAkEtnrGIN5MzxJoGzqsONimIQCSJlvxYlC83OFNmFRJ8JRyGARv//NRolTSNPhYd96dh4C/Stba9SAag==", "portfolio"=>{"name"=>"Ginger's Hair Salon", "role"=>"Web Designer, Graphic Designer", "tasks"=>"Website, Logo", "description"=>"PLEASE PORFAS!"}, "id"=>"1"}
+  [1m[36mPortfolio Load (0.3ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (1.2ms)[0m  [1mUPDATE "portfolios" SET "role" = ?, "tasks" = ?, "updated_at" = ? WHERE "portfolios"."id" = ?[0m  [["role", "Web Designer, Graphic Designer"], ["tasks", "Website, Logo"], ["updated_at", "2017-02-02 02:14:41.715812"], ["id", 1]]
+  [1m[35m (1.3ms)[0m  commit transaction
+Redirected to http://localhost:3000/portfolios/1
+Completed 302 Found in 14ms (ActiveRecord: 2.8ms)
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:14:41 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:14:41 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:15:42 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.4ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 61ms (Views: 57.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:15:42 -0600
+
+
+Started GET "/portfolios/1/edit" for ::1 at 2017-02-01 20:16:07 -0600
+Processing by PortfoliosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/_form.html.erb (3.9ms)
+  Rendered portfolios/edit.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 44ms (Views: 43.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 20:16:07 -0600
+
+
+Started GET "/portfolios/1/edit" for ::1 at 2017-02-01 20:16:08 -0600
+Processing by PortfoliosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.3ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/_form.html.erb (4.8ms)
+  Rendered portfolios/edit.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 52ms (Views: 50.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 20:16:08 -0600
+
+
+Started PATCH "/portfolios/1" for ::1 at 2017-02-01 20:16:14 -0600
+Processing by PortfoliosController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nlCQdjAsp+KNFQOW+Su0Mdvjref4BMgqXS9eIvmWpHcdL1pPh8rk8wYcPxAHUXTC/9r8ZUXmOjYXSxq8GwDXbg==", "portfolio"=>{"name"=>"Ginger's Hair Salon", "role"=>"Web Designer, Graphic Designer", "tasks"=>"Website, Logo", "description"=>"PLEASE PORFAS!"}, "id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.1ms)[0m  [1mcommit transaction[0m
+Redirected to http://localhost:3000/portfolios/1
+Completed 302 Found in 8ms (ActiveRecord: 0.4ms)
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:14 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 35ms (Views: 34.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:14 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:38 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 39ms (Views: 37.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:38 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:40 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 41ms (Views: 39.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:40 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:41 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 39ms (Views: 38.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:41 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:42 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 97ms (Views: 94.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:42 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:47 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 43ms (Views: 40.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:47 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:48 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 43ms (Views: 40.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:48 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:16:51 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 35ms (Views: 34.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/modules/_colors.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/home.self-0044e17fca7fee5ba799aeb5b9b9d5601efae64023db2c33be983ca3239c87b7.css?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/modules/_media-sizes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/portfolios.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/application.self-0f1e57dc510b26d336394d4aa5ce175f4ff02b1c7a3b0f7ce646ff5c24851bae.css?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/modules/all.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/portfolios.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:16:51 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:17:12 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 35ms (Views: 34.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:17:12 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:17:19 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 34ms (Views: 32.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:17:19 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:18:02 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 82ms (Views: 80.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:18:02 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:18:17 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 43ms (Views: 41.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:18:17 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:18:28 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 38ms (Views: 36.7ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:18:28 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:18:41 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.4ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 45ms (Views: 42.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:18:41 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:18:51 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 52ms (Views: 50.6ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:18:51 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:18:58 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.3ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 49ms (Views: 47.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:18:58 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:19:44 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 53ms (Views: 50.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:19:44 -0600
+
+
+Started GET "/portfolios/1/edit" for ::1 at 2017-02-01 20:19:49 -0600
+Processing by PortfoliosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/_form.html.erb (7.0ms)
+  Rendered portfolios/edit.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 42ms (Views: 40.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 20:19:49 -0600
+
+
+Started GET "/portfolios/1/edit" for ::1 at 2017-02-01 20:19:49 -0600
+Processing by PortfoliosController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/_form.html.erb (4.6ms)
+  Rendered portfolios/edit.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 48ms (Views: 46.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW.png" for ::1 at 2017-02-01 20:19:49 -0600
+
+
+Started PATCH "/portfolios/1" for ::1 at 2017-02-01 20:20:04 -0600
+Processing by PortfoliosController#update as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aGgzWeI2wP62NB2/l/aywAS05YFu3Co5laybF9nkLr7rF/lgVdCD7z09ITlpjHIzII20A9M+2CXfyN+JO3Jdpw==", "portfolio"=>{"name"=>"Ginger's Hair Salon", "role"=>"Web Designer, Graphic Designer", "tasks"=>"Website, Logo", "site"=>"http://www.salongingers.com", "description"=>"PLEASE PORFAS!"}, "id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35m (0.2ms)[0m  begin transaction
+  [1m[36mSQL (0.7ms)[0m  [1mUPDATE "portfolios" SET "site" = ?, "updated_at" = ? WHERE "portfolios"."id" = ?[0m  [["site", "http://www.salongingers.com"], ["updated_at", "2017-02-02 02:20:04.554998"], ["id", 1]]
+  [1m[35m (0.9ms)[0m  commit transaction
+Redirected to http://localhost:3000/portfolios/1
+Completed 302 Found in 111ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:20:04 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 41ms (Views: 40.0ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:20:04 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:21:33 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 90ms (Views: 87.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:21:33 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:21:55 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 71ms (Views: 69.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:21:55 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:21:58 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 48ms (Views: 45.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:21:58 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:22:05 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 43ms (Views: 41.4ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:22:05 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:22:21 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.5ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 36ms (Views: 33.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:22:21 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:22:23 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 48ms (Views: 46.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:22:23 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:22:38 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 33ms (Views: 31.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:22:38 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:23:01 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 33ms (Views: 31.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:23:01 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:23:03 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.2ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 44ms (Views: 42.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:23:03 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:23:47 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 36ms (Views: 34.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:23:47 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:23:55 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 33ms (Views: 32.2ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:23:55 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:23:59 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.2ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 34ms (Views: 32.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:23:59 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:24:05 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:24:05 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:24:09 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 36ms (Views: 34.9ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:24:09 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:24:13 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mPortfolio Load (0.1ms)[0m  SELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:24:13 -0600
+
+
+Started GET "/portfolios/1" for ::1 at 2017-02-01 20:24:31 -0600
+Processing by PortfoliosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPortfolio Load (0.1ms)[0m  [1mSELECT  "portfolios".* FROM "portfolios" WHERE "portfolios"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered portfolios/show.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/logo7-NEW-white.png" for ::1 at 2017-02-01 20:24:31 -0600

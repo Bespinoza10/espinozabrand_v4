@@ -1,17 +1,29 @@
-<header style="background-image: url('<%= @portfolio.background.url%>');
+<header class="portfolio-bg"style="background-image: url('<%= @portfolio.background.url%>');
   background-attachment: fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  color: white;
+  color: #fff;
   height: 100vh;
   margin-top: -100px;">
-    <div class="col-md-12 portfolio-caption center">
+    <div class="col-md-8 center portfolio-caption center">
       <h1><%= @portfolio.name%></h1>
     </div>
 </header>
+<div class="container">
+  <div class="col-md-4">
+    <h3 class="bold">ROLE</h3><h4 class="thin"><%= @portfolio.role%></h4>
+  </div>
+  <div class="col-md-4">
+    <h3 class="bold">TASKS</h3><h4 class="thin"><%= @portfolio.tasks%></h4>
+  </div>
+  <div class="col-md-4">
+    <h3 class="bold">Website</h3><h4 class="thin"><%= @portfolio.site%></h4>
+  </div>
+</div>
+<hr style="border-top: 2px solid #cacaca;">
 
 <p><%= @portfolio.description%></p>
 

@@ -13,19 +13,48 @@
     </div>
 </header>
 <div class="container">
-  <div class="col-md-4">
-    <h3 class="bold">ROLE</h3><h4 class="thin"><%= @portfolio.role%></h4>
+  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+    <h3 class="bold mint">ROLE</h3><h4 class="thin"><%= @portfolio.role%></h4>
   </div>
-  <div class="col-md-4">
-    <h3 class="bold">TASKS</h3><h4 class="thin"><%= @portfolio.tasks%></h4>
+  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+    <h3 class="bold mint">TASKS</h3><h4 class="thin"><%= @portfolio.tasks%></h4>
   </div>
-  <div class="col-md-4">
-    <h3 class="bold">Website</h3><h4 class="thin"><%= @portfolio.site%></h4>
+  <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+    <h3 class="bold mint">Website</h3><h4 class="thin"><%= @portfolio.site%></h4>
   </div>
 </div>
 <hr style="border-top: 2px solid #cacaca;">
+<br>
+<br>
+<br>
+<div class="container">
+  <div class="col-md-12">
+    <h1 class="mint bold">Product Details</h1>
+    <p><%= @portfolio.description%></p>
+  </div>
 
-<p><%= @portfolio.description%></p>
+  <% if @portfolio.website_one.exists?%>
+  <div class="col-md-12 padding-top">
+    <h2 class="bold blue">Home Page</h2>
+    <br>
+    <%= image_tag @portfolio.website_one.url, class: "img-responsive web-img"%>
+  </div>
+  <%end%>
+  <%if @portfolio.website_two.exists?%>
+  <div class="col-md-12 padding-top">
+    <h2 class="bold blue">Secondary Page</h2>
+    <br>
+    <%= image_tag @portfolio.website_two.url, class: "img-responsive web-img"%>
+  </div>
+  <%end%>
+  <% if @portfolio.website_three.exists?%>
+  <div class="col-md-12 padding-top">
+    <h2 class="bold blue">Secondary Page</h2>
+    <br>
+    <%= image_tag @portfolio.website_two.url, class: "img-responsive web-img"%>
+  </div>
+  <%end%>
+</div>
 
 
 <br>

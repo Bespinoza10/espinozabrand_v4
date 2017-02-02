@@ -7,9 +7,27 @@
   </div>
 </header>
 
-<div class="container">
-  <h2>WORK / PORTFOLIO</h2>
-</div>
+<% @portfolio.each do |portfolio|%>
+  <div class="col-md-12" style="background-image: url('<%= portfolio.background.url%>');
+    background-attachment: fixed;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: #fff;
+    height: 70vh;">
+
+    <div class="col-md-3 padding-top-small">
+      <h1 class="white"><%= portfolio.name%></h1>
+      <hr>
+      <h3 class="white"><%= portfolio.tasks%></h3>
+      <%= link_to "View Project", portfolio, class:"btn btn-go"%>
+    </div>
+  </div>
+<%end%>
+
+
 
 <div class="container">
   <div class="row">
